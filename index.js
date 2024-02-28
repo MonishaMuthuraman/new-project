@@ -1,1 +1,1 @@
-console.log("new file added");
+console.log("new file added as new");
